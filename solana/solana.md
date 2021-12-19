@@ -1,5 +1,7 @@
 # Solana
 
+Solana sử dụng cơ chế đồng thuận [[proof-of-history]]
+
 ## Solana programing philosophy
 
 Về lý thuyết solana giống như unix system, nơi mọi thứ đều là file. Đối với solana thì là #account.
