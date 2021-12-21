@@ -1,2 +1,7 @@
+# _config.yml
+title: Journey to the Web 3
 repository: mahpah/web3
-title: Web3 notes
+# Generate permalinks in format specified in: https://jekyllrb.com/docs/permalinks/#built-in-formats
+permalink: /:title/
+kramdown:
+  parse_block_html: true
